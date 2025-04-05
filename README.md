@@ -5,6 +5,8 @@ SRS is in [docs folder](/docs)
 
 SDD is in [docs folder](/docs)
 
+STD (planning) is in [docs folder](/docs)
+
 Link for shared folder: https://drive.google.com/drive/folders/1CRZJQ08p-rcfkqdNauDPpwwiRffqeIGK
 
 All Docs links are : [Links](docs/Links.md)
