@@ -4,8 +4,7 @@ Official repository for WinterGreen project work in CS5500
 Testing (Completed Document) - [link](https://northeastern-my.sharepoint.com/:x:/g/personal/belathur_n_northeastern_edu/EQqOcUBDbzRPsLyYnJrcVz8B9Ye2F5iSd-Y3NdnwDHbx1w?e=M8Qk7r) 
 
 # Please find Attached links to documents 
-## This Repo is used by cloudsmiths to work on a Software Engineering XN project.
-## Below are the artifacts we used to manage our project.
+## This Repo is used by cloudsmiths to work on a Software Engineering XN project. Below are the artifacts we used to manage our project.
 
 Project Management Sheet - https://docs.google.com/spreadsheets/d/1TBYOwWsotXDvuVv5qGDsH0ek6w8rRv9hmnya6qaHdXo/edit?usp=sharing
 
