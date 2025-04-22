@@ -3,7 +3,7 @@
 
 ## This is the official repository for WinterGreen project work in CS5500. It was used by cloudsmiths to work on a Software Engineering XN project. Below are the artifacts we used to manage our project.
 
-Software Engineering documents are inside (docs)[docs] folder.
+Software Engineering documents are inside (docs)[/docs] folder.
 
 Project Management Sheet - https://docs.google.com/spreadsheets/d/1TBYOwWsotXDvuVv5qGDsH0ek6w8rRv9hmnya6qaHdXo/edit?usp=sharing
 
